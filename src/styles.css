@@ -1,0 +1,21 @@
+#gallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+}
+.section-percentage {
+  position: fixed;
+  top: 10px;
+  right: 23px;
+  margin: 2px;
+  border: 1px solid green;
+  padding: 5px;
+  z-index: 10;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  color: green;
+  font-family: sans-serif;
+  box-shadow: 0px 0px 10px 5px gray;
+}
